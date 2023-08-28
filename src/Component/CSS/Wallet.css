@@ -1,0 +1,56 @@
+
+.wallet {
+  margin: 0 auto;
+  border-radius: 5px;
+  background-color: #ffffff;
+  height: 480px;
+  max-width: 900px;
+  min-width: 800px;
+  display: flex;
+}
+
+.left-wallet {
+  background-color: #5595e3;
+  width: 300px;
+  height: initial;
+  padding: 40px;
+  border-radius: 5px;
+}
+
+.right-trans {
+  background-color: #4f4f4f;
+  width: 600px;
+  height: initial;
+  padding: 30px;
+   
+  
+}
+.right-b{
+   
+    padding: 40px;
+    float: left;
+
+}
+h1 {
+  color: #ffffff;
+  margin: 0;
+  font-weight: 400;
+  font-size: 25px;
+  font-family: "Open Sans", sans-serif;
+}
+
+h4 {
+  margin: 0;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: "Open Sans", sans-serif;
+}
+
+.left-wallet h1,
+.left-wallet modal-open,
+.right-trans h1,
+.right-trans #balance {
+  font-family: "Open Sans", sans-serif;
+  display: inline-block;
+}
+
